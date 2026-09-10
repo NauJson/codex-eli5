@@ -1,0 +1,4 @@
+interface:
+  display_name: "ELI5 图解"
+  short_description: "用大图少字的 HTML 页面，把一个主题讲给零基础的人"
+  default_prompt: "Use $eli5 to explain this topic like I'm 5, as a single HTML picture page."
